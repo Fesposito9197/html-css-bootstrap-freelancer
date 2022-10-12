@@ -13,8 +13,28 @@
 }
 
 .ms-container-custom{
-    max-width: 25rem;
+    max-width: 18.75rem;
+}
+.ms-container-custom-2{
+    max-width: 12.5rem;
 }
 .ms-bg-footer-info{
     background-color: #3a546d;
 }
+.ms-flex{
+    display: flex;
+}
+.ms-align-items-center{
+    align-items: center;
+}
+
+.star::after , .star::before{
+    content:"";
+    width: 100%;
+    height: 5px;
+    color: currentColor;
+    background-color:currentColor;
+    border-radius: 10px;
+}
+    
+    
