@@ -36,5 +36,8 @@
     background-color:currentColor;
     border-radius: 10px;
 }
+.ms-btn-border{
+    border: 1px solid #fff;
+}
     
     
