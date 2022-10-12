@@ -23,12 +23,7 @@
 .ms-bg-footer-info{
     background-color: #3a546d;
 }
-.ms-flex{
-    display: flex;
-}
-.ms-align-items-center{
-    align-items: center;
-}
+
 
 .star::after , .star::before{
     content:"";
