@@ -11,7 +11,9 @@
 .ms-debug-white{
     color: #ffff;
 }
-
+.ms-text-green{
+    color: #1abc9c;
+}
 .ms-container-custom{
     max-width: 18.75rem;
 }
@@ -45,4 +47,21 @@
     border-bottom: 1px solid;
     border-radius: 0;
 }
+
+.ms-social-border{
     
+    border-radius: 50%;
+    border: 1px #fff;
+}
+.ms-h-10{
+    height: 10px;
+    width: 10px;
+}
+.sm-circle{
+    height: 35px;
+    width: 35px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+}
