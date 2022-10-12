@@ -15,7 +15,7 @@
 .ms-container-custom{
     max-width: 18.75rem;
 }
-.ms-container-custom-2{
+.ms-container-custom-small{
     max-width: 12.5rem;
 }
 .ms-bg-footer-info{
@@ -30,7 +30,7 @@
 
 .star::after , .star::before{
     content:"";
-    width: 100%;
+    width: 15%;
     height: 5px;
     color: currentColor;
     background-color:currentColor;
